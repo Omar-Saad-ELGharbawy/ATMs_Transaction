@@ -10,6 +10,7 @@ ATMs availability: Down times affect ATMs availability hence negatively impact c
 Down times are not only caused by fault in machines. Cash replenishment and regular maintenance activities also cause the ATMs to be out of service for a while. In the light of given data elements, can you propose a high-level schedule for Cash replenishment or regular maintenance activities?
 ### 3.Bonus: 
 In order to better cater for spar nord customer, we need to understand where to locate our ATMs to ensure maximum coverage.
+## [R Script](https://github.com/Omar-Saad-ELGharbawy/ATMs_Transaction/blob/main/script.R)
 ## My Report
 ### In Question 1 
 I  have calculated the availability and down time percentage by a function from rows that have NA message codes and the availability is very good and I tried to see if the manufacturer affects on down time but it doesn’t have large effect since machines from NCR makes large withdraw processes and it also have large downtimes so it is proportional.
